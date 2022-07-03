@@ -9,7 +9,7 @@ This is Dice Game.
 - And the difference betweeb the sumOfnumbers and sumOfDiceRoll is less than 3.
 if both condtion are fullfilled, you will win. Otherwise you will lose.
 
-##Code overview
+## Code overview
 
 ```
 double randomNumber = Math.random() * 6; 
