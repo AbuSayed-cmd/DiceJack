@@ -19,7 +19,7 @@ return (int)randomNumber;
 random() function generates numbers between 0 to 0.99. If we multiply with 6 will get the maximum number 5.99. But we need 6.
 To make it round we have used type cast. But there is also a problem, now will get it 5, the fraction part will be removed
 by type cast.
-to so this problem, we increment random value by 1. As a result we will get the value between 1 to 6.
+To solve this problem, we increment random value by 1. As a result we will get the value between 1 to 6.
 
 ### To compile the code
 
